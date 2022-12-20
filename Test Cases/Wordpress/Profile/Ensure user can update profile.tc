@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ensure user can update profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3adbc09-d77f-423e-9d2f-ce7f0c45ccf7</testCaseGuid>
+</TestCaseEntity>
